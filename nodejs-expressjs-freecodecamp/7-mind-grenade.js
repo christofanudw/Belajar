@@ -6,3 +6,5 @@ function addValues(){
 }
 
 module.exports = addValues
+
+console.log(module)
